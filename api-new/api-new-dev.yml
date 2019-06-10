@@ -9,4 +9,4 @@ hystrix:
                         timeoutInMilliseconds: 1000
     threadpool:
         default:
-            coreSize: 20
+            coreSize: 10
